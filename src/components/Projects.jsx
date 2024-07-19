@@ -135,8 +135,8 @@ const Projects = () => {
         >
           In this portfolio,you’d find a collections of my work
           samples,testimonials from satisfied clients and detailed overview of
-          services I offer. I am committed to belongs my clients a huge
-          beusinessnobjectuves by taking care of the administrative and
+          services I offer. I am committed to bring my clients a huge
+          business objectives by taking care of the administrative and
           operational tasks that can consume valuable time and energy. I implore
           you to check out my portfolio and see how my skill and eco can be of
           great asset to your business.
