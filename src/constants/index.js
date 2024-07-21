@@ -111,7 +111,7 @@ const experiences = [
     company_name: '',
     icon: microverse,
     iconBg: '#333333',
-    date: 'May 2024 - Now',
+    date: 'May 2024 - date',
   },
   {
     title: 'Administrative Assistant',
